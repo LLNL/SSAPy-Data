@@ -1,6 +1,8 @@
 SSAPy-Data
 ==========
 
+The planetary ephemerides (de430.bsp) have been downloaded from `https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/ <https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/>`_
+
 Earth Gravity Models downloaded from `https://geographiclib.sourceforge.io/html/gravity.html <https://geographiclib.sourceforge.io/html/gravity.html>`_
 
 GeographicLib is MIT-licensed.
